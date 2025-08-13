@@ -1,5 +1,6 @@
 # app.py
-streamlit
+import streamlit as st
+
 pandas
 numpy
 matplotlib
